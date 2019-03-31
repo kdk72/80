@@ -1,0 +1,77 @@
+Package: com.kdk72.kidsdaemon
+Name: NiceAuto
+Version: 8.0.5
+Architecture: iphoneos-arm
+Description: NiceAuto iOS, Support from version 10.x - 11.4.1
+Author: NiceAuto - Nice <phatdatpq@gmail.com>
+Maintainer: Dev by Nice
+Section: System
+Tag: role::lol
+Filename: ./Debs/NiceAuto805.deb
+Size: 344896
+MD5sum: 56b95024b541054b13db886871685d5f		
+Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,com.kdk72.locationchanger
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
+
+Package: com.kdk72.locationchanger
+Name: LocationFaker(10,11)
+Version: 8.0
+Architecture: iphoneos-arm
+Author: Cunstuck <repo@hackyouriphone.org>
+Description: change your location using a map
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Section: Tweaks
+Filename: ./Debs/LocationFaker1011.deb
+Size: 636612
+MD5sum: ed520e2887f755ba235519cee9950856
+Depends: firmware, mobilesubstrate
+Conflicts: org.thebigboss.locationchangerx
+
+Package: com.kdk72.sslkillswitch2
+Name: SSLKillSwitch 2
+Architecture: iphoneos-arm
+Version: 2.0.12
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
+Author: Alban Diquet <nabla.c0d3@gmail.com>
+Section: Tweaks
+Filename: ./Debs/SSLKillSwitch2.0.deb
+Size: 8192
+MD5sum: f43608dc1d9992b5268e64d077741dee
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.nablac0d3.sslkillswitch,com.nablac0d3.sslkillswitch2
+
+Package: preferenceloader
+Name: PreferenceLoader
+Version: 2.2.4~alpha1
+Architecture: iphoneos-arm
+Description: Load preferences in style
+Maintainer: Dustin Howett <cydia.pl@relay.howett.net>
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+dev: dustinhowett
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Tag: role::hacker, purpose::library
+Section: System
+Filename: ./Debs/Preferenceloader.deb
+Size: 49882
+MD5sum: 9a4a06a924116033d1887baa9ebea7d2
+Depends: mobilesubstrate, firmware (>= 11.0)
+
+Package: com.rpetrich.rocketbootstrap
+Name: RocketBootstrap
+Version: 1.0.7~beta2
+Architecture: iphoneos-arm
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+Filename: ./Debs/RocketBootStrap.deb
+Size: 54350
+MD5sum: bc0cb2ae33a2849dbd899d506abc780c
+dev: rpetrich
+Tag: purpose::extension, role::developer
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)

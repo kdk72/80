@@ -1,0 +1,12 @@
+Origin: NiceAuto IOS Repo 8.0
+Label: NiceAuto IOS Repo 8.0
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: NiceAuto iOS for Device Model 10.x - 11.4.1
+MD5Sum:
+ 2cdf655648901fd5dde99f1226ad1b29 3129 Packages
+ 348508120b66e990381cb2ea976c1112 1424 Packages.bz2
+ fd13fe4b3e7b4d8727515a4c439764f1 1266 Packages.gz
