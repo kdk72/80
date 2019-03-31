@@ -7,6 +7,6 @@ Architectures: iphoneos-arm
 Components: main
 Description: NiceAuto iOS for Device Model 10.x - 11.4.1
 MD5Sum:
- 0815b685a3f84593c370f21e693e5063 3136 Packages
- d5f9ded597f13f2c792bd80e30b2f2da 1408 Packages.bz2
+ fc77bae54ea4137abaf5017d2b543bfd 3136 Packages
+ 1a94ab4bc348b58ade49773ee2d050bd 1408 Packages.bz2
 

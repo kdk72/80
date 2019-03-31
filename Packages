@@ -22,8 +22,8 @@ Description: change your location using a map
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Section: Tweaks
 Filename: ./Debs/LocationFaker1011.deb
-Size: 636612
-MD5sum: ed520e2887f755ba235519cee9950856
+Size: 636608
+MD5sum: 345f9f40803999171b70e69e09aecafe
 Depends: firmware, mobilesubstrate
 Conflicts: org.thebigboss.locationchangerx
 
