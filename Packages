@@ -8,8 +8,8 @@ Maintainer: Dev by Nice
 Section: System
 Tag: role::lol
 Filename: ./Debs/NiceAuto805.deb
-Size: 344896
-MD5sum: 56b95024b541054b13db886871685d5f		
+Size: 344898
+MD5sum: 24a9394141dc8bb224fdf69f65958f46
 Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,com.kdk72.locationchanger
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
 
