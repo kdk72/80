@@ -1,4 +1,4 @@
-Package: com.kdk72.kidsdaemon
+Package: com.niceauto.kidsdaemon
 Name: NiceAuto
 Version: 8.0.5
 Architecture: iphoneos-arm
@@ -8,12 +8,12 @@ Maintainer: Dev by Nice
 Section: System
 Tag: role::lol
 Filename: ./Debs/NiceAuto805.deb
-Size: 344898
-MD5sum: 24a9394141dc8bb224fdf69f65958f46
-Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,com.kdk72.locationchanger
+Size: 344934
+MD5sum: 09c0586266fcaff2436514a355cfb939
+Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,com.niceauto.locationchanger
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
 
-Package: com.kdk72.locationchanger
+Package: com.niceauto.locationchanger
 Name: LocationFaker(10,11)
 Version: 8.0
 Architecture: iphoneos-arm
