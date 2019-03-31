@@ -6,10 +6,10 @@ Description: NiceAuto iOS, Support from version 10.x - 11.4.1
 Author: NiceAuto - Nice <phatdatpq@gmail.com>
 Maintainer: Dev by Nice
 Section: System
-Tag: role::lol
-Filename: ./Debs/NiceAuto805.deb
-Size: 344934
-MD5sum: 09c0586266fcaff2436514a355cfb939
+Tag: role::hacker
+Filename: ./Debs/NiceAuto.deb
+Size: 344930
+MD5sum: d9600d7b635bdbd1a81ceb73aca1242a
 Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,com.niceauto.locationchanger
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
 
