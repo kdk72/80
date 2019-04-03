@@ -8,8 +8,8 @@ Maintainer: Dev by Nice
 Section: System
 Tag: role::hacker
 Filename: ./Debs/NiceAuto.deb
-Size: 344930
-MD5sum: d9600d7b635bdbd1a81ceb73aca1242a
+Size: 344896
+MD5sum: 3b977969d33eb355b74537483e785a71
 Depends: com.conradkramer.open,zip,unzip,ws.hbang.repower,rsync,jetslammed,socat,sudo,com.cydiageek.coysim,preferenceloader,com.rpetrich.rocketbootstrap,openssh,com.niceauto.locationchanger
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.rbt.useragentchanger
 
@@ -22,8 +22,8 @@ Description: change your location using a map
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Section: Tweaks
 Filename: ./Debs/LocationFaker1011.deb
-Size: 636608
-MD5sum: 345f9f40803999171b70e69e09aecafe
+Size: 636578
+MD5sum: a53f53d0a303b98076e3b98e822c97b4
 Depends: firmware, mobilesubstrate
 Conflicts: org.thebigboss.locationchangerx
 
